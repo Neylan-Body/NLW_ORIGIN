@@ -1,9 +1,9 @@
 const LinksSocialMedia = {
-  github: 'paulo-mesquita',
-  youtube: 'c/PauloMesquita_code',
-  facebook: 'paulonewbs',
-  instagram: 'paulonewbs',
-  linkedin: 'in/paulo-jc-mesquita'
+  github: 'Neylan-Body',
+  youtube: '',
+  facebook: '',
+  instagram: 'neylan',
+  linkedin: 'in/neylan-oliveira-dos-santos-92a78a194'
 }
 
 function changeSocialMediaLinks() {
