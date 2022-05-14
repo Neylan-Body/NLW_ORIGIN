@@ -1,5 +1,5 @@
 const LinksSocialMedia = {
-  github: 'Neylan-Body',
+  github: 'Neylan-Dev',
   youtube: '',
   facebook: '',
   instagram: 'neylan',
